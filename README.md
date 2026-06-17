@@ -192,7 +192,7 @@
 ### ✅ Completed Tasks
 > Completed tasks are visually distinguished, giving you a clear sense of progress.
 
-![Categories](screenshoots/completed tasks.jpg)
+![Categories](screenshoots/completed.jpg)
 
 <br />
 
