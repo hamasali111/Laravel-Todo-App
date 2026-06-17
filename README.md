@@ -21,11 +21,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](../../pulls)
 
-<br />
 
-[🌐 Live Demo](#) &nbsp;|&nbsp; [🐛 Report a Bug](../../issues/new?template=bug_report.md) &nbsp;|&nbsp; [💡 Request a Feature](../../issues/new?template=feature_request.md)
-
-<br />
 
 </div>
 
