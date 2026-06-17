@@ -136,7 +136,7 @@
 ### 🏠 Dashboard
 > A high-level summary of your productivity — total tasks, completed, pending, and overdue counts.
 
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](screenshoots/dashboard.jpg)
 
 <br />
 
@@ -147,7 +147,7 @@
 
 | Login | Register |
 |-------|----------|
-| ![Login](screenshots/login.jpg) | ![Register](screenshots/register.jpg) |
+| ![Login](screenshoots/login.jpg) | ![Register](screenshoots/register.jpg) |
 
 <br />
 
@@ -156,7 +156,7 @@
 ### ➕ Create & Edit Task
 > Intuitive form to add or update a task with all relevant metadata.
 
-![Create Task](screenshots/create-task.jpg)
+![Create Task](screenshoots/create-task.jpg)
 
 <br />
 
@@ -165,7 +165,7 @@
 ### 📋 Task List
 > View all your tasks in a clean list with inline actions (complete, edit, delete).
 
-![Task List](screenshots/task-list.jpg)
+![Task List](screenshoots/task-list.jpg)
 
 <br />
 
@@ -174,7 +174,7 @@
 ### 🔍 Search & Filter
 > Locate tasks instantly by keyword or narrow results by category, priority, or status.
 
-![Search and Filter](screenshots/search-filter.jpg)
+![Search and Filter](screenshoots/search-filter.jpg)
 
 <br />
 
@@ -183,7 +183,7 @@
 ### 🏷️ Categories
 > Create, rename, and manage your own task categories.
 
-![Categories](screenshots/task-categories.jpg)
+![Categories](screenshoots/task-categories.jpg)
 
 <br />
 
